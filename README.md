@@ -23,7 +23,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 ## Steps To Set Locally
 
--git clone
+- git clone
 - cd laravel-blog-project-main
 - composer install
 - cp .env.example  .env
