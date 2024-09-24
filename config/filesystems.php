@@ -26,7 +26,8 @@ return [
     |
     | Supported Drivers: "local", "ftp", "sftp", "s3"
     |
-    */
+    */'default' => env('FILESYSTEM_DRIVER', 's3'),
+
 
     'disks' => [
 
